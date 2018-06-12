@@ -17,4 +17,4 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
     cheese_and_crackers(10 + 20, 5 + 6)
 
     print("And we can combine the two, bariables and math:")
-    cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers)
+    cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers +1000)
