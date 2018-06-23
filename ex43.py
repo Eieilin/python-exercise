@@ -96,7 +96,7 @@ class CentralCorridor(Scene):
             print("DOES NOT COMPUTER!")
             return 'central_corridor'
 
-class LasserWeaponArmory(Scene):
+class LaserWeaponArmory(Scene):
 
     def enter(self):
         print(dedent("""
@@ -203,7 +203,7 @@ class EscapePod(Scene):
                 """))
             return 'death'
 
-        else
+        else:
             print(dedent("""
                 YOu jump into pod {guess} and hit the eject button.
                 The pod easily slides out into space heading to the 
