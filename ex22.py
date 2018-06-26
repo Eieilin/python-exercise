@@ -1,1 +1,1 @@
-Restudyin the python.
+Restudying  the python.
